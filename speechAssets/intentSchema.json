@@ -1,0 +1,36 @@
+{
+	"intents": [{
+			"intent": "AMAZON.CancelIntent"
+		},
+		{
+			"intent": "AMAZON.HelpIntent"
+		},
+		{
+			"intent": "AMAZON.StopIntent"
+		},
+		{
+			"slots": [{
+					"name": "num",
+					"type": "AMAZON.NUMBER"
+				},
+				{
+					"name": "num_b",
+					"type": "AMAZON.NUMBER"
+				},
+				{
+					"name": "unit",
+					"type": "CURRENCY_CODE"
+				},
+				{
+					"name": "unit_b",
+					"type": "CURRENCY_CODE"
+				},
+				{
+					"name": "sub",
+					"type": "SUB_CURRENCY"
+				}
+			],
+			"intent": "CurrencyConvert"
+		}
+	]
+}

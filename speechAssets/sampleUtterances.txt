@@ -1,0 +1,38 @@
+CurrencyConvert how much is {num} {unit} in {unit_b} 
+CurrencyConvert how much is {num} {unit} and {num_b} {sub} in {unit_b}
+CurrencyConvert how many {unit_b} in a {unit}
+CurrencyConvert how much {unit_b} in a {unit}
+CurrencyConvert how many {unit_b} in {num} {unit}
+CurrencyConvert how much {unit_b} in {num} {unit}
+CurrencyConvert how many {unit_b} in {num} {unit} and {num_b} {sub}
+CurrencyConvert how much {unit_b} in {num} {unit} and {num_b} {sub}
+CurrencyConvert how many {unit_b} is {num} {unit}
+CurrencyConvert how much {unit_b} is {num} {unit}
+CurrencyConvert how many {unit_b} is {num} {unit} and {num_b} {sub}
+CurrencyConvert how much {unit_b} is {num} {unit} and {num_b} {sub}
+CurrencyConvert how many {unit_b} are in {num} {unit}
+CurrencyConvert how much {unit_b} are in {num} {unit}
+CurrencyConvert how many {unit_b} are in {num} {unit} and {num_b} {sub}
+CurrencyConvert how much {unit_b} are in {num} {unit} and {num_b} {sub}
+CurrencyConvert how many {unit_b} are there in {num} {unit}
+CurrencyConvert how much {unit_b} are there in {num} {unit}
+CurrencyConvert how many {unit_b} are there in {num} {unit} and {num_b} {sub}
+CurrencyConvert how much {unit_b} are there in {num} {unit} and {num_b} {sub}
+CurrencyConvert how many {unit_b} are there in a {unit}
+CurrencyConvert how much {unit_b} are there in a {unit}
+CurrencyConvert how many {unit_b} is a {unit}
+CurrencyConvert how much {unit_b} is a {unit}
+CurrencyConvert how many {unit_b} are in a {unit}
+CurrencyConvert how much {unit_b} are in a {unit}
+CurrencyConvert show me the exchange rate from {unit} to {unit_b}
+CurrencyConvert what is the exchange rate from {unit} to {unit_b}
+CurrencyConvert give me the exchange rate from {unit} to {unit_b}
+CurrencyConvert exchange rate {unit} {unit_b}
+CurrencyConvert exchange rate from {unit} to {unit_b}
+CurrencyConvert the exchange rate from {unit} to {unit_b}
+CurrencyConvert convert {num} {unit} to {unit_b}
+CurrencyConvert convert {num} {unit} and {num_b} {sub} to {unit_b}
+CurrencyConvert {num} {unit} is how many {unit_b}
+CurrencyConvert {num} {unit} is how much {unit_b}
+CurrencyConvert {num} {unit} and {num_b} {sub} is how many {unit_b}
+CurrencyConvert {num} {unit} and {num_b} {sub} is how much {unit_b}
